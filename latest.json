@@ -1,0 +1,27 @@
+{
+  "updatedAt": "2026-07-06T20:28:27.583Z",
+  "bundles": [
+    {
+      "platform": "android",
+      "version": "1.0.001",
+      "url": "https://github.com/asammitte/voltdash-ota/releases/download/ota-v1.0.001/bundle-1.0.001.zip",
+      "checksum": "05dd448e0cbf22a195d91f2a928fb779530caecb303a7d88666e053dcad119af87a234c094eb6846e30ff47ad41a6c718891cd1a5ede3dedd027d1e9a705192d753f65c5b31bf32cd933c1a135b43a72aa1653282882cd706cf71990cac06e87a32987f5b5766c3a1e02e48a475c18a12eb187d7c5a1c3e440c740f08f0329d2497a71de6250c78245a9920fcca5b2d7f35906325b30172fb0c73a5b37e44357055b5cd2e76625226aeaef89d3a60bd3712bb2abf07616f493880d274cf93bdb639164640a171d1feea581c09988714f31f984c1ce0fd6aa922bd362000790659be277ca7eef638f5ec39ca0d74b5a662f20d951a7a714687b5e4476236a644b",
+      "sessionKey": "Y5pG0FWQqRewHx1xgNeU4w==:D0NHCGhXpNZQbCA48Di1phhaUG7A55nfNwJV4yjLhO80nwm8ZOdpP8ZVm/xby0NoI+NkgPb9nlyTnBBclKLcLMzvnbiu/IZLfwki86fFJOxTFOCXAT1XgpTGB4od7ipyXqVTPCyRgCAt5WqGRbiV/AQnNaQpXjvFgk3na0qH/SjMzlPfru01izdPwTYFy9Gnr+VRB20EROYnMLlgJqOBlqoC9idKRwHu4sdolQ29DdYXa8npmqJMhbn+yyAFauwtoTdwIsuR4Pkxo3TPAbO471iIvm0vGiw8cye8pfG7pjY8I4rXQ/hlu65WU8SCkzSGN4EajYtG5g2vOajnRVySTw==",
+      "nativeVersion": "1.010",
+      "minNativeVersion": "1.010",
+      "notes": "",
+      "mandatory": false
+    },
+    {
+      "platform": "ios",
+      "version": "1.0.001",
+      "url": "https://github.com/asammitte/voltdash-ota/releases/download/ota-v1.0.001/bundle-1.0.001.zip",
+      "checksum": "05dd448e0cbf22a195d91f2a928fb779530caecb303a7d88666e053dcad119af87a234c094eb6846e30ff47ad41a6c718891cd1a5ede3dedd027d1e9a705192d753f65c5b31bf32cd933c1a135b43a72aa1653282882cd706cf71990cac06e87a32987f5b5766c3a1e02e48a475c18a12eb187d7c5a1c3e440c740f08f0329d2497a71de6250c78245a9920fcca5b2d7f35906325b30172fb0c73a5b37e44357055b5cd2e76625226aeaef89d3a60bd3712bb2abf07616f493880d274cf93bdb639164640a171d1feea581c09988714f31f984c1ce0fd6aa922bd362000790659be277ca7eef638f5ec39ca0d74b5a662f20d951a7a714687b5e4476236a644b",
+      "sessionKey": "Y5pG0FWQqRewHx1xgNeU4w==:D0NHCGhXpNZQbCA48Di1phhaUG7A55nfNwJV4yjLhO80nwm8ZOdpP8ZVm/xby0NoI+NkgPb9nlyTnBBclKLcLMzvnbiu/IZLfwki86fFJOxTFOCXAT1XgpTGB4od7ipyXqVTPCyRgCAt5WqGRbiV/AQnNaQpXjvFgk3na0qH/SjMzlPfru01izdPwTYFy9Gnr+VRB20EROYnMLlgJqOBlqoC9idKRwHu4sdolQ29DdYXa8npmqJMhbn+yyAFauwtoTdwIsuR4Pkxo3TPAbO471iIvm0vGiw8cye8pfG7pjY8I4rXQ/hlu65WU8SCkzSGN4EajYtG5g2vOajnRVySTw==",
+      "nativeVersion": "1.010",
+      "minNativeVersion": "1.010",
+      "notes": "",
+      "mandatory": false
+    }
+  ]
+}
